@@ -8,7 +8,7 @@ module.exports = {
 
   async handler (request, reply) {
 
-    const adventureId = request.params.adventureId;
+    const dealId = request.body.dealId;
 
     const client = new faunadb.Client({
         secret: process.env.FAUNA_SERVER_SECRET,
@@ -18,30 +18,26 @@ module.exports = {
 
     const data = {
         username:Call(Fn("getUser"),current.user),
-        name:'new adventure',
+        name:'',
         createdDate:Now(),
-        visible:'public',
-        waterType:'river',
-        lodging:{type:'hotel',location:'',state:'',city:''},
-        flight:'none',
-        guides:'none',
-        guest:'none',
-        startDate:Now(),
-        endDate:Now(),
-        cars:'none',
-        gear:'none',
-        notes:'',
-        state:'',
-        city:'',
-        status:'active',
-        boat:'none',
-        trax:false
+        address:'',
+        units:'',
+        rent:'',
+        status:'',
+        board:'',
+        cap:'',
+        debtType:'',
+        debtService:'',
+        occupancy:'',
+        months:'',
+        otherIncome:'',
+        expenses:'',
     }
 
     try {
      const result = await client.query(
             Create(
-                Collection('adventures'),
+                Collection('deals'),
                 {data}
             )
         );

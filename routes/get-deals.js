@@ -21,8 +21,8 @@ module.exports = {
      const result = await client.query(
             Get(
                 Ref(
-                    Collection('adventures'),
-                    request.params.adventureId
+                    Collection('deals'),
+                    request.params.dealId
                 )
             )
         );

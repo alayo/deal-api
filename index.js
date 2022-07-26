@@ -6,7 +6,7 @@ const fastifyGuard = require('fastify-guard')
 const FaunaError = require('./errors/FaunaError.js');
 fastify.register(jwt, {
   secret: async function (request, token) {
-    return 'supersecret'
+    return 'ejYQ14VPWhJtj6dRWjiYAhoJ5bbzEPRUkuzpBJeZ5tifTd0Pzj4RaQw0gi'
   }
 })
 
@@ -18,18 +18,18 @@ fastify.post('/api/register', async function (request, reply) {
   return reply.send({ token })
 })
 
-fastify.get('/users/:userId', require('./routes/get-user.js'));
-fastify.get('/adventure/:adventureId', require('./routes/get-adventures.js'));
-fastify.post('/adventure/', require('./routes/create-adventure.js'));
-fastify.post('/relationship/', require('./routes/create-relationship.js'));
-fastify.post('/api/locations', require('./routes/create-locations.js'));
+fastify.get('/api/users/:userId', require('./routes/get-user.js'));
+fastify.get('/api/deals/:dealId', require('./routes/get-deals.js'));
+fastify.post('/api/quick-deal/', require('./routes/create-quick-deal.js'));
+fastify.post('/api/relationship/', require('./routes/create-relationship.js'));
+fastify.post('/api/locations', require('./routes/create-markets.js'));
 
 
 
 
 async function start () {
   try {
-    await fastify.listen(3000);
+    await fastify.listen(8000);
     fastify.log.info(`server listening on ${fastify.server.address().port}`);
   } catch (err) {
     fastify.log.error(err)

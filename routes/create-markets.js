@@ -23,7 +23,7 @@ module.exports = {
     try {
      const result = await client.query(
             Create(
-                Collection('locations'),
+                Collection('markets'),
                 {data}
             )
         );

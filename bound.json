@@ -1,0 +1,1379 @@
+[
+    {
+      "ID": "2",
+      "Code": "AL",
+      "Display": "Alabama",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 30.189623,
+          "x": -84.8883809
+        },
+        "UpperLeft": {
+          "y": 35.007948,
+          "x": -88.4720311
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "1",
+      "Code": "AK",
+      "Display": "Alaska",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 51.294464,
+          "x": -129.9795098
+        },
+        "UpperLeft": {
+          "y": 71.428864,
+          "x": -179.625856
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "4",
+      "Code": "AZ",
+      "Display": "Arizona",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 31.329174,
+          "x": -109.0448842
+        },
+        "UpperLeft": {
+          "y": 37.004585,
+          "x": -114.8154149
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "3",
+      "Code": "AR",
+      "Display": "Arkansas",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 33.004528,
+          "x": -89.6444089
+        },
+        "UpperLeft": {
+          "y": 36.499657,
+          "x": -94.618156
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "5",
+      "Code": "CA",
+      "Display": "California",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 32.530426,
+          "x": -114.129486
+        },
+        "UpperLeft": {
+          "y": 42.009827,
+          "x": -124.4111861
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "6",
+      "Code": "CO",
+      "Display": "Colorado",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 36.992226,
+          "x": -102.0419849
+        },
+        "UpperLeft": {
+          "y": 41.005611,
+          "x": -109.0608059
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "7",
+      "Code": "CT",
+      "Display": "Connecticut",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 40.979533,
+          "x": -71.7872108
+        },
+        "UpperLeft": {
+          "y": 42.050414,
+          "x": -73.727887
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "9",
+      "Code": "DE",
+      "Display": "Delaware",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 38.449348,
+          "x": -75.0423971
+        },
+        "UpperLeft": {
+          "y": 39.840576,
+          "x": -75.7886018
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "8",
+      "Code": "DC",
+      "Display": "District of Columbia",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 38.809009,
+          "x": -76.909698
+        },
+        "UpperLeft": {
+          "y": 38.995064,
+          "x": -77.1207329
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "10",
+      "Code": "FL",
+      "Display": "Florida",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 24.543053,
+          "x": -80.0272958
+        },
+        "UpperLeft": {
+          "y": 31.001046,
+          "x": -87.6348299
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "11",
+      "Code": "GA",
+      "Display": "Georgia",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 30.35565,
+          "x": -80.8419571
+        },
+        "UpperLeft": {
+          "y": 35.002037,
+          "x": -85.605291
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "12",
+      "Code": "HI",
+      "Display": "Hawaii",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 18.910787,
+          "x": -154.8061718
+        },
+        "UpperLeft": {
+          "y": 22.232557,
+          "x": -160.5548941
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "14",
+      "Code": "ID",
+      "Display": "Idaho",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 41.989838,
+          "x": -111.0436171
+        },
+        "UpperLeft": {
+          "y": 49.00085,
+          "x": -117.240196
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "15",
+      "Code": "IL",
+      "Display": "Illinois",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 36.971115,
+          "x": -87.497078
+        },
+        "UpperLeft": {
+          "y": 42.50948,
+          "x": -91.5126271
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "16",
+      "Code": "IN",
+      "Display": "Indiana",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 37.773048,
+          "x": -84.7876741
+        },
+        "UpperLeft": {
+          "y": 41.762321,
+          "x": -88.089745
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "13",
+      "Code": "IA",
+      "Display": "Iowa",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 40.374542,
+          "x": -90.1393132
+        },
+        "UpperLeft": {
+          "y": 43.504646,
+          "x": -96.6356662
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "17",
+      "Code": "KS",
+      "Display": "Kansas",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 36.992222,
+          "x": -94.5927349
+        },
+        "UpperLeft": {
+          "y": 40.004513,
+          "x": -102.0485531
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "18",
+      "Code": "KY",
+      "Display": "Kentucky",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 36.496719,
+          "x": -81.9642031
+        },
+        "UpperLeft": {
+          "y": 39.147232,
+          "x": -89.5736768
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "19",
+      "Code": "LA",
+      "Display": "Louisiana",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 28.918104,
+          "x": -88.814056
+        },
+        "UpperLeft": {
+          "y": 33.020599,
+          "x": -94.0457761
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "22",
+      "Code": "ME",
+      "Display": "Maine",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 43.064774,
+          "x": -66.954002
+        },
+        "UpperLeft": {
+          "y": 47.45983,
+          "x": -71.082
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "21",
+      "Code": "MD",
+      "Display": "Maryland",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 37.91205,
+          "x": -75.0458981
+        },
+        "UpperLeft": {
+          "y": 39.723143,
+          "x": -79.4871439
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "20",
+      "Code": "MA",
+      "Display": "Massachusetts",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 41.237003,
+          "x": -69.926562
+        },
+        "UpperLeft": {
+          "y": 42.886848,
+          "x": -73.50826
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "23",
+      "Code": "MI",
+      "Display": "Michigan",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 41.695801,
+          "x": -82.4193799
+        },
+        "UpperLeft": {
+          "y": 48.240128,
+          "x": -90.4187092
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "24",
+      "Code": "MN",
+      "Display": "Minnesota",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 43.502102,
+          "x": -89.48331
+        },
+        "UpperLeft": {
+          "y": 49.38447,
+          "x": -97.238975
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "26",
+      "Code": "MS",
+      "Display": "Mississippi",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 30.174402,
+          "x": -88.097738
+        },
+        "UpperLeft": {
+          "y": 34.998322,
+          "x": -91.6542511
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "25",
+      "Code": "MO",
+      "Display": "Missouri",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 35.995091,
+          "x": -89.100594
+        },
+        "UpperLeft": {
+          "y": 40.614029,
+          "x": -95.774414
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "27",
+      "Code": "MT",
+      "Display": "Montana",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 44.357689,
+          "x": -104.0397109
+        },
+        "UpperLeft": {
+          "y": 49.0011,
+          "x": -116.0507351
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "30",
+      "Code": "NE",
+      "Display": "Nebraska",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 39.999886,
+          "x": -95.3079991
+        },
+        "UpperLeft": {
+          "y": 43.002796,
+          "x": -104.0528408
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "34",
+      "Code": "NV",
+      "Display": "Nevada",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 35.002079,
+          "x": -114.0393449
+        },
+        "UpperLeft": {
+          "y": 42.000313,
+          "x": -120.005348
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "31",
+      "Code": "NH",
+      "Display": "New Hampshire",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 42.696956,
+          "x": -70.7135011
+        },
+        "UpperLeft": {
+          "y": 45.30634,
+          "x": -72.5564351
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "32",
+      "Code": "NJ",
+      "Display": "New Jersey",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 38.926536,
+          "x": -73.8937058
+        },
+        "UpperLeft": {
+          "y": 41.35755,
+          "x": -75.5596012
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "33",
+      "Code": "NM",
+      "Display": "New Mexico",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 31.3319,
+          "x": -103.0006559
+        },
+        "UpperLeft": {
+          "y": 36.999424,
+          "x": -109.050102
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "35",
+      "Code": "NY",
+      "Display": "New York",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 40.494183,
+          "x": -71.8551511
+        },
+        "UpperLeft": {
+          "y": 45.01608,
+          "x": -79.7619859
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "28",
+      "Code": "NC",
+      "Display": "North Carolina",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 33.844467,
+          "x": -75.4595032
+        },
+        "UpperLeft": {
+          "y": 36.588293,
+          "x": -84.320969
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "29",
+      "Code": "ND",
+      "Display": "North Dakota",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 45.935051,
+          "x": -96.5551529
+        },
+        "UpperLeft": {
+          "y": 49.00072,
+          "x": -104.0495879
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "36",
+      "Code": "OH",
+      "Display": "Ohio",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 38.4025,
+          "x": -80.5177159
+        },
+        "UpperLeft": {
+          "y": 41.978249,
+          "x": -84.8199308
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "37",
+      "Code": "OK",
+      "Display": "Oklahoma",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 33.615253,
+          "x": -94.4307022
+        },
+        "UpperLeft": {
+          "y": 37.000931,
+          "x": -103.0008701
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "38",
+      "Code": "OR",
+      "Display": "Oregon",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 41.992462,
+          "x": -116.4616391
+        },
+        "UpperLeft": {
+          "y": 46.285763,
+          "x": -124.566025
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "39",
+      "Code": "PA",
+      "Display": "Pennsylvania",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 39.719868,
+          "x": -74.689591
+        },
+        "UpperLeft": {
+          "y": 42.269632,
+          "x": -80.519562
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "40",
+      "Code": "RI",
+      "Display": "Rhode Island",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 41.144325,
+          "x": -71.1207158
+        },
+        "UpperLeft": {
+          "y": 42.019085,
+          "x": -71.8883669
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "41",
+      "Code": "SC",
+      "Display": "South Carolina",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 32.04921,
+          "x": -78.5536801
+        },
+        "UpperLeft": {
+          "y": 35.21611,
+          "x": -83.354355
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "42",
+      "Code": "SD",
+      "Display": "South Dakota",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 42.481113,
+          "x": -96.4365772
+        },
+        "UpperLeft": {
+          "y": 45.944363,
+          "x": -104.0571292
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "43",
+      "Code": "TN",
+      "Display": "Tennessee",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 34.983898,
+          "x": -81.647001
+        },
+        "UpperLeft": {
+          "y": 36.679245,
+          "x": -90.3107452
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "44",
+      "Code": "TX",
+      "Display": "Texas",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 25.83802,
+          "x": -93.5087429
+        },
+        "UpperLeft": {
+          "y": 36.503441,
+          "x": -106.645783
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "45",
+      "Code": "UT",
+      "Display": "Utah",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 36.998631,
+          "x": -109.0409468
+        },
+        "UpperLeft": {
+          "y": 42.004196,
+          "x": -114.05407
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "47",
+      "Code": "VT",
+      "Display": "Vermont",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 42.726744,
+          "x": -71.4677119
+        },
+        "UpperLeft": {
+          "y": 45.01648,
+          "x": -73.4434279
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "46",
+      "Code": "VA",
+      "Display": "Virginia",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 36.540792,
+          "x": -75.2368478
+        },
+        "UpperLeft": {
+          "y": 39.465838,
+          "x": -83.6751611
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "48",
+      "Code": "WA",
+      "Display": "Washington",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 45.545394,
+          "x": -116.912911
+        },
+        "UpperLeft": {
+          "y": 49.00244,
+          "x": -124.7565622
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "50",
+      "Code": "WV",
+      "Display": "West Virginia",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 37.201696,
+          "x": -77.7189301
+        },
+        "UpperLeft": {
+          "y": 40.638554,
+          "x": -82.6407781
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "49",
+      "Code": "WI",
+      "Display": "Wisconsin",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 42.495724,
+          "x": -86.809387
+        },
+        "UpperLeft": {
+          "y": 47.075748,
+          "x": -92.885391
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    },
+    {
+      "ID": "51",
+      "Code": "WY",
+      "Display": "Wyoming",
+      "GeographyType": 1,
+      "Address": null,
+      "Location": null,
+      "BoundingBox": {
+        "LowerRight": {
+          "y": 40.996269,
+          "x": -104.0519869
+        },
+        "UpperLeft": {
+          "y": 45.004204,
+          "x": -111.0551371
+        }
+      },
+      "MatchType": 11,
+      "PropertyTypeId": null,
+      "PlaceId": null,
+      "SelectedCountryCode": null,
+      "SelectedCurrencyType": 0,
+      "SelectedMeasurementConversion": 0,
+      "lc": null,
+      "cy": null,
+      "tgeo": null
+    }
+  ]

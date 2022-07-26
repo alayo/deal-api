@@ -8,7 +8,8 @@ module.exports = {
 
   async handler (request, reply) {
 
-    const adventureId = request.params.adventureId;
+    const followerEmail = request.params.followerEmail;
+    const followeeEmail = request.params.followerEmail;
 
     const client = new faunadb.Client({
         secret: process.env.FAUNA_SERVER_SECRET,
@@ -17,8 +18,8 @@ module.exports = {
     });
 
     const data = {
-        follower:Call(Fn("getUser"),"sbrink"),
-        followee:Call(Fn("getUser"),"fbrink"),
+        follower:Call(Fn("getUser"),followerEmail),
+        followee:Call(Fn("getUser"),followeeEmail),
     }
 
     try {
